@@ -19,3 +19,5 @@ C:\Users\HP\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing
 C:\Users\HP\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.dll
 C:\Users\HP\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.pdb
 C:\Users\HP\source\repos\MenuItemListing\obj\Debug\netcoreapp3.1\MenuItemListing.genruntimeconfig.cache
+C:\Users\HP\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\Dockerfile
+C:\Users\HP\source\repos\MenuItemListing\bin\Debug\netcoreapp3.1\menuitemys.yml
